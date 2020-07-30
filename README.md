@@ -5,7 +5,7 @@ This program allow you work with your file system "pure" without fear of lost st
 
 Program providing offline work with the file system with support for local version control. To do this, transfer the start directory from which the local file system will be initialized
 
-## Run program: 
+## Start: 
 ```shell script
 stack exec vcs -- <absolute path>
 ```
