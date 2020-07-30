@@ -1,7 +1,7 @@
-name:                hw2
+name:                vcs
 version:             0.1.0.0
 synopsis:            Synopsis for task 2
-description:         Task 2 for FP ITMO course
+description:         Pure VCS for Unix file system
 
 homepage:            https://github.com/fp-ctd-itmo/hw2-niki999922/tree/master/hw2#readme
 license:             MIT

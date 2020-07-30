@@ -1,7 +1,7 @@
 resolver: lts-14.27
 
 packages:
-- hw2
+- vcs
 
 extra-deps: 
 - HsYAML-0.2.1.0@sha256:e4677daeba57f7a1e9a709a1f3022fe937336c91513e893166bd1f023f530d68,5311
