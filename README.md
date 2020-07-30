@@ -19,4 +19,5 @@ stack exec vcs -- "/Users/name/this/repository/path/vcs/testFolder/Root"
 stack test
 ```
 
+## Available Commands
 <img src="images/help.png" width="800">
